@@ -1,0 +1,197 @@
+[
+  {
+    "bodypart": 11,
+    "effect": "noShootEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 12,
+    "effect": "noShootEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 13,
+    "effect": "noShootEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 14,
+    "effect": "noShootEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 15,
+    "effect": "noShootEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 16,
+    "effect": "noShootEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 17,
+    "effect": "noShootEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 18,
+    "effect": "noShootEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 20,
+    "effect": "blurEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 19,
+    "effect": "blurEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 11,
+    "effect": "unstableDrivingEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 12,
+    "effect": "unstableDrivingEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 13,
+    "effect": "unstableDrivingEffect",
+    "threshold": 30
+  },
+  {
+    "bodypart": 14,
+    "effect": "unstableDrivingEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 15,
+    "effect": "unstableDrivingEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 16,
+    "effect": "unstableDrivingEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 17,
+    "effect": "unstableDrivingEffect",
+    "threshold": 30
+  },
+  {
+    "bodypart": 18,
+    "effect": "unstableDrivingEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 20,
+    "effect": "unstableDrivingEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 19,
+    "effect": "unstableDrivingEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 1,
+    "effect": "noRunningEffect",
+    "threshold": 35
+  },
+  {
+    "bodypart": 2,
+    "effect": "noRunningEffect",
+    "threshold": 35
+  },
+  {
+    "bodypart": 3,
+    "effect": "noRunningEffect",
+    "threshold": 30
+  },
+  {
+    "bodypart": 4,
+    "effect": "noRunningEffect",
+    "threshold": 35
+  },
+  {
+    "bodypart": 5,
+    "effect": "noRunningEffect",
+    "threshold": 35
+  },
+  {
+    "bodypart": 6,
+    "effect": "noRunningEffect",
+    "threshold": 30
+  },
+  {
+    "bodypart": 1,
+    "effect": "slowWalkEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 2,
+    "effect": "slowWalkEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 3,
+    "effect": "slowWalkEffect",
+    "threshold": 40
+  },
+  {
+    "bodypart": 4,
+    "effect": "slowWalkEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 5,
+    "effect": "slowWalkEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 6,
+    "effect": "slowWalkEffect",
+    "threshold": 40
+  },
+  {
+    "bodypart": 1,
+    "effect": "limpEffect",
+    "threshold": 50
+  },
+  {
+    "bodypart": 2,
+    "effect": "limpEffect",
+    "threshold": 50
+  },
+  {
+    "bodypart": 3,
+    "effect": "limpEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 4,
+    "effect": "limpEffect",
+    "threshold": 50
+  },
+  {
+    "bodypart": 5,
+    "effect": "limpEffect",
+    "threshold": 50
+  },
+  {
+    "bodypart": 6,
+    "effect": "limpEffect",
+    "threshold": 45
+  },
+  {
+    "bodypart": 8,
+    "effect": "vommitEffect",
+    "threshold": 45
+  }
+]

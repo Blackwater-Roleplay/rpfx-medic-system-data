@@ -1,0 +1,9 @@
+[
+  {
+    "itemUuid": "77e3b316-35d4-4bf8-85a5-484d4299d785",
+    "removedEffects": ["noShootEffect","blurEffect","unstableDrivingEffect","noRunningEffect","slowWalkEffect","limpEffect"],
+    "removedDamagepoints": {
+    },
+    "duration": 20
+  }
+]
