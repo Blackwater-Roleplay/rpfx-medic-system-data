@@ -1,0 +1,30 @@
+[
+  {
+    "itemUuid": "1d4c66c2-0107-4b6f-a331-45f40a04c363",
+    "removedEffects": ["noShootEffect","blurEffect","unstableDrivingEffect","noRunningEffect","slowWalkEffect","limpEffect"],
+    "removedDamagepoints": {
+      "bodypart_0": 100,
+      "bodypart_1": 100,
+      "bodypart_2": 100,
+      "bodypart_3": 100,
+      "bodypart_4": 100,
+      "bodypart_5": 100,
+      "bodypart_6": 100,
+      "bodypart_7": 100,
+      "bodypart_8": 100,
+      "bodypart_9": 100,
+      "bodypart_10": 100,
+      "bodypart_11": 100,
+      "bodypart_12": 100,
+      "bodypart_13": 100,
+      "bodypart_14": 100,
+      "bodypart_15": 100,
+      "bodypart_16": 100,
+      "bodypart_17": 100,
+      "bodypart_18": 100,
+      "bodypart_19": 100,
+      "bodypart_20": 100
+    },
+    "duration": -1
+  }
+]
