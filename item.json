@@ -4,6 +4,6 @@
     "removedEffects": ["noShootEffect","blurEffect","unstableDrivingEffect","noRunningEffect","slowWalkEffect","limpEffect"],
     "removedDamagepoints": {
     },
-    "duration": 240
+    "duration": 120
   }
 ]
