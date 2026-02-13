@@ -124,5 +124,32 @@
       "bodypart_20": 15
     },
     "duration": -1
+  },
+  {
+    "itemUuid": "5402dd96-22ce-4a3a-bf13-2062de1bce30",
+    "removedEffects": [],
+    "removedDamagepoints": {
+      "bodypart_0": 1000,
+      "bodypart_1": 1000,
+      "bodypart_2": 1000,
+      "bodypart_3": 1000,
+      "bodypart_4": 1000,
+      "bodypart_5": 1000,
+      "bodypart_6": 1000,
+      "bodypart_7": 1000,
+      "bodypart_9": 1000,
+      "bodypart_10": 1000,
+      "bodypart_11": 1000,
+      "bodypart_12": 1000,
+      "bodypart_13": 1000,
+      "bodypart_14": 1000,
+      "bodypart_15": 1000,
+      "bodypart_16": 1000,
+      "bodypart_17": 1000,
+      "bodypart_18": 1000,
+      "bodypart_19": 1000,
+      "bodypart_20": 1000
+    },
+    "duration": -1
   }
 ]
