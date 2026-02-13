@@ -1,9 +1,128 @@
 [
   {
-    "itemUuid": "77e3b316-35d4-4bf8-85a5-484d4299d785",
+    "itemUuid": "b33e8012-ffa6-4266-9a9a-b9ba91af0988",
     "removedEffects": ["noShootEffect","blurEffect","unstableDrivingEffect","noRunningEffect","slowWalkEffect","limpEffect"],
     "removedDamagepoints": {
+      "bodypart_0": 0
     },
-    "duration": 120
+    "duration": 300
+  },
+  {
+    "itemUuid": "a1416709-953b-4a81-88f5-71c3014a2a05",
+    "removedEffects": ["vommitEffect"],
+    "removedDamagepoints": {
+      "bodypart_8": 1000
+    },
+    "duration": 300
+  },
+  {
+    "itemUuid": "7b4289ec-3caf-42d5-8023-afeb23ad6bdf",
+    "removedEffects": ["blurEffect"],
+    "removedDamagepoints": {
+      "bodypart_0": 50,
+      "bodypart_1": 50,
+      "bodypart_2": 50,
+      "bodypart_3": 50,
+      "bodypart_4": 50,
+      "bodypart_5": 50,
+      "bodypart_6": 50,
+      "bodypart_7": 50,
+      "bodypart_8": 50,
+      "bodypart_9": 50,
+      "bodypart_10": 50,
+      "bodypart_11": 50,
+      "bodypart_12": 50,
+      "bodypart_13": 50,
+      "bodypart_14": 50,
+      "bodypart_15": 50,
+      "bodypart_16": 50,
+      "bodypart_17": 50,
+      "bodypart_18": 50,
+      "bodypart_19": 50,
+      "bodypart_20": 50
+    },
+    "duration": 300
+  },
+  {
+    "itemUuid": "e88f6741-409e-40bf-a9cb-6209ce387803",
+    "removedEffects": [],
+    "removedDamagepoints": {
+      "bodypart_0": 15,
+      "bodypart_1": 15,
+      "bodypart_2": 15,
+      "bodypart_3": 15,
+      "bodypart_4": 15,
+      "bodypart_5": 15,
+      "bodypart_6": 15,
+      "bodypart_7": 15,
+      "bodypart_8": 15,
+      "bodypart_9": 15,
+      "bodypart_10": 15,
+      "bodypart_11": 15,
+      "bodypart_12": 15,
+      "bodypart_13": 15,
+      "bodypart_14": 15,
+      "bodypart_15": 15,
+      "bodypart_16": 15,
+      "bodypart_17": 15,
+      "bodypart_18": 15,
+      "bodypart_19": 15,
+      "bodypart_20": 15
+    },
+    "duration": -1
+  },
+  {
+    "itemUuid": "d79c8464-33ee-44e5-ab18-5d5020615c47",
+    "removedEffects": [],
+    "removedDamagepoints": {
+      "bodypart_0": 15,
+      "bodypart_1": 15,
+      "bodypart_2": 15,
+      "bodypart_3": 15,
+      "bodypart_4": 15,
+      "bodypart_5": 15,
+      "bodypart_6": 15,
+      "bodypart_7": 15,
+      "bodypart_9": 15,
+      "bodypart_10": 15,
+      "bodypart_11": 15,
+      "bodypart_12": 15,
+      "bodypart_13": 15,
+      "bodypart_14": 15,
+      "bodypart_15": 15,
+      "bodypart_16": 15,
+      "bodypart_17": 15,
+      "bodypart_18": 15,
+      "bodypart_19": 15,
+      "bodypart_20": 15
+    },
+    "duration": -1
+  },
+  {
+    "itemUuid": "fb38e9b0-77ff-4de5-8e19-022d591e36bd",
+    "removedEffects": [],
+    "removedDamagepoints": {
+      "bodypart_0": 15,
+      "bodypart_1": 15,
+      "bodypart_2": 15,
+      "bodypart_3": 15,
+      "bodypart_4": 15,
+      "bodypart_5": 15,
+      "bodypart_6": 15,
+      "bodypart_7": 15,
+      "bodypart_9": 15,
+      "bodypart_10": 15,
+      "bodypart_11": 15,
+      "bodypart_12": 15,
+      "bodypart_13": 15,
+      "bodypart_14": 15,
+      "bodypart_15": 15,
+      "bodypart_16": 15,
+      "bodypart_17": 15,
+      "bodypart_18": 15,
+      "bodypart_19": 15,
+      "bodypart_20": 15
+    },
+    "duration": -1
   }
 ]
